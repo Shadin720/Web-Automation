@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TutorialsNinja with selenium Suite">
+	<test name="TutorialsNinja TestCases">
+		<classes>
+			<class name="com.TutorialsNinja.qa.Testcases.Register" />
+			<class name="com.TutorialsNinja.qa.Testcases.Login" />
+			<class name="com.TutorialsNinja.qa.Testcases.Search" />
+
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
